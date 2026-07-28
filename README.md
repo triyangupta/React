@@ -1,2 +1,2 @@
 # React 
-react is a frame
+react is a framework
